@@ -1,0 +1,41 @@
+body{
+  text-align:center;
+  background-color:orange;
+}
+#First{
+width:100px;
+}
+h1{
+  Font-size:35px;
+  font-weight:Bold;
+ font-family: 'Truculenta', sans-serif;
+}
+h2{
+  font-size:30px;
+ font-family: 'Truculenta', sans-serif;
+}
+p{
+  font-size:20px;
+}
+#Image{
+  width:190px;
+  margin:5px;
+}
+.Links:hover{
+background-color:lightcoral;
+}
+.menu{
+    list-style: none;
+}
+#Virat{
+width: 150px;
+}
+.menu{
+list-style: none;
+font-family: cursive;
+float: right;
+top: 10px;
+right: 30px;
+cursor: pointer;
+color: black;
+}
